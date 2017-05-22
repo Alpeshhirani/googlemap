@@ -1,4 +1,4 @@
-package com.weapplinse.googlemap;
+package com.hirani.googlemap;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
